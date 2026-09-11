@@ -75,44 +75,13 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chib30333/chib30333/main/assets/metrics.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chib30333/chib30333/main/assets/metrics.light.svg" />
-  <img src="https://raw.githubusercontent.com/chib30333/chib30333/main/assets/metrics.light.svg" width="100%" alt="GitHub metrics" />
-</picture>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chib30333/chib30333/main/assets/isocalendar.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chib30333/chib30333/main/assets/isocalendar.light.svg" />
-  <img src="https://raw.githubusercontent.com/chib30333/chib30333/main/assets/isocalendar.light.svg" width="100%" alt="Contribution calendar" />
-</picture>
-
-</div>
-
-> Both images are rendered by [`.github/workflows/metrics.yml`](.github/workflows/metrics.yml) and committed to this
-> repository, so they are served from your own repo and can never hit a third-party rate limit.
-
----
-
 ## Featured Projects
 
 | Project | What it is | |
 | --- | --- | --- |
-| [project-one](https://github.com/chib30333/project-one) | One line about what it does and why it is interesting. | ![stars](https://img.shields.io/github/stars/chib30333/project-one?style=flat&logo=github&label=&color=58A6FF) |
-| [project-two](https://github.com/chib30333/project-two) | One line about what it does and why it is interesting. | ![stars](https://img.shields.io/github/stars/chib30333/project-two?style=flat&logo=github&label=&color=58A6FF) |
-| [project-three](https://github.com/chib30333/project-three) | One line about what it does and why it is interesting. | ![stars](https://img.shields.io/github/stars/chib30333/project-three?style=flat&logo=github&label=&color=58A6FF) |
+| [joymap-next](https://github.com/chib30333/joymap-next) | One line about what it does and why it is interesting. | ![stars](https://img.shields.io/github/stars/chib30333/joymap-next?style=flat&logo=github&label=&color=58A6FF) |
+| [Precision-Extraction-of-Black-Overprints-from-High-Resolution-Stamp-Sheets-Research-Project-](https://github.com/chib30333/Precision-Extraction-of-Black-Overprints-from-High-Resolution-Stamp-Sheets-Research-Project-) | One line about what it does and why it is interesting. | ![stars](https://img.shields.io/github/stars/chib30333/Precision-Extraction-of-Black-Overprints-from-High-Resolution-Stamp-Sheets-Research-Project-?style=flat&logo=github&label=&color=58A6FF) |
+| [Backgammon-Vision-Analyzer](https://github.com/chib30333/Backgammon-Vision-Analyzer) | One line about what it does and why it is interesting. | ![stars](https://img.shields.io/github/stars/chib30333/Backgammon-Vision-Analyzer?style=flat&logo=github&label=&color=58A6FF) |
 
-<!-- EDIT ME: replace project-one / project-two / project-three with real repository names,
+<!-- EDIT ME: replace the placeholder descriptions above with one line per project,
      or delete this whole section and use GitHub's pinned repositories instead. -->
